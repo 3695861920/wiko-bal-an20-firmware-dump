@@ -1,0 +1,8 @@
+# 含个人数据的文件，绝不推送
+flash.bin
+hwparam.json
+*.log
+
+# 临时文件
+.DS_Store
+*.tmp
